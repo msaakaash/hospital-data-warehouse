@@ -12,7 +12,7 @@ A data warehouse project designed to demonstrate SQL and data modeling skills. I
 
 ## 📎 Diagram
 
-![Star Schema](diagrams/star_schema.png)
+![Star Schema](./diagrams/star_schema.png)
 
 
 ## 📌 Phases
