@@ -1,0 +1,6 @@
+diagnosis_code,diagnosis_description,category
+D001,Heart Disease,Cardiology
+D002,Migraine,Neurology
+D003,Fracture,Orthopedics
+D004,Asthma,Pediatrics
+D005,Cancer,Oncology
