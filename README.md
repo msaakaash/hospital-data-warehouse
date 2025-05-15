@@ -76,7 +76,11 @@ To set up the project on your local machine, follow these steps:
    ```bash
    git clone https://github.com/msaakaash/hospital-data-warehouse.git
    cd hospital-data-warehouse
-   
+
+
+## License  
+This project is licensed under the [MIT License](LICENSE).  
+
 
 ## Author
 
