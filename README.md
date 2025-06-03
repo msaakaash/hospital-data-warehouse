@@ -17,10 +17,12 @@ A data warehouse project designed to demonstrate SQL and data modeling skills. I
 
 ## Phases
 
- Phase 1 – Schema Design & Setup (Complete)  
- Phase 2 – Sample Data Ingestion (Next)  
+ Phase 1 – Schema Design & Setup
+ Phase 2 – Sample Data Ingestion  
  Phase 3 – Query Building & Insights  
- Phase 4 – BI Dashboard & Deployment (Optional)
+ Phase 4 – BI Dashboard & Deployment 
+ Phase 5 – ETL pipeline
+ Phase 6 - Analysis
 
 
 
