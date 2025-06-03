@@ -57,7 +57,6 @@ Stores department-level metadata.
 #### `dim_diagnosis`
 Stores diagnosis code, description, and category.
 
----
 
 ## Sample Use Cases
 
@@ -65,7 +64,6 @@ Stores diagnosis code, description, and category.
 - Analyze readmission rates by diagnosis.
 - Rank doctors by total cost billed.
 
----
 
 ## Tools Used
 
